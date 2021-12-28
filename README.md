@@ -48,4 +48,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JessicaPersou&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-[ Animação de cobra ] (https://github.com/JessicaPersou/JessicaPersou/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/JessicaPersou/JessicaPersou/blob/output/github-contribution-grid-snake.svg)
