@@ -2,7 +2,7 @@
 
 <h2 align ="center">Meu nome é Jessica, mas pode me chamar de "Jess"👋🏽</h2>
 
-<p align ="center">Tenho 28 anos, nasci e moro em São Paulo/SP, adoro praticar esporte e correr, descobri recentemente a minha paixão por programação e estou em transição de carreira.</br align = "center">
+<p align ="center">Tenho 28 anos, nasci e moro em São Paulo/SP, adoro praticar atividade física, descobri recentemente a minha paixão por programação e estou em transição de carreira.</br align = "center">
 ⁠"A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles, estou aqui para aprender!" ❤</p>
 
 </br>
