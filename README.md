@@ -45,7 +45,7 @@
 <p align="center">
 <a href="https://github.com/JessicaPersou">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JessicaPersou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JessicaPersou&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaPersou&hide=c%23&card_width=250&custom_title=Most%20used%20languages&langs_count=6&hide_border=true&layout=compact&theme=dracula" height="125"/>
 </a>
 </p>
 
