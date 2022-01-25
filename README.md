@@ -8,10 +8,7 @@
 </br>
 
 <div dsplay="inline-block">
- <h2 align="left">Minhas redes sociais:</h2>
- <a href="https://www.instagram.com/jessica.psousa/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
+ <h2 align="left">Entre em contato pelo meu Linkedin:</h2>
   <a href="https://www.linkedin.com/in/jessica-persou/">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
